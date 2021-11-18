@@ -1,12 +1,11 @@
-# Resources
-## [CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
-## [User preference media features](https://drafts.csswg.org/mediaqueries-5/#mf-user-preferences)
+## Resources
+### [CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+### [User preference media features](https://drafts.csswg.org/mediaqueries-5/#mf-user-preferences)
   - prefers-color-scheme
   - prefers-reduced-motion
   - prefers-contrast
 ---
-### Bonus
-The CSS designers don't want you to know about™️ – [100 Bytes of CSS to look great everywhere](https://www.swyx.io/css-100-bytes/)
+**Bonus**: The 100 bytes of CSS designers don't want you to know about™️ ([swyx.io](https://www.swyx.io/css-100-bytes/))
 ```css
     html {
         max-width: 70ch;
