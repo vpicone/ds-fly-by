@@ -1,0 +1,42 @@
+<html lang="en">
+  <head>
+    <title>Minimum Viable Design System</title>
+    <style>
+      html {
+        max-width: 70ch;
+        padding: 3em 1em;
+        margin: auto;
+        line-height: 1.75;
+        font-size: 1.25em;
+        --mvp-text: #171717;
+        --mvp-background: #fafafa;
+        --mvp-brand: rebeccapurple;
+      }
+
+      body {
+        color: var(--mvp-text);
+        background: var(--mvp-background);
+      }
+
+      h1 {
+        color: var(--mvp-brand);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        html {
+          --mvp-text: #fafafa;
+          --mvp-background: #171717;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello IMA</h1>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores sit
+      architecto quas est assumenda, et fugiat suscipit fuga sequi officia
+      laudantium incidunt culpa dolore labore corrupti obcaecati explicabo atque
+      pariatur!
+    </p>
+  </body>
+</html>
