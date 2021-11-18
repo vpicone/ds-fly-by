@@ -14,7 +14,7 @@
   - [Adobe Spectrum](https://spectrum.adobe.com)
   - honorable mention: [Bootstrap](https://getbootstrap.com/)
 ---
-**Bonus**: The 100 bytes of CSS designers don't want you to know about™ ([src](https://www.swyx.io/css-100-bytes/))
+**Bonus**: The 100 bytes of CSS designers don't want you to know about™ ([credit](https://www.swyx.io/css-100-bytes/))
 ```css
 html {
     max-width: 70ch;
