@@ -4,6 +4,13 @@
   - prefers-color-scheme
   - prefers-reduced-motion
   - prefers-contrast
+### Design Systems of note
+  - [Carbon Design](https://carbondesignsystem.com)
+  - [Material Design](https://material.io)
+  - [GitHub Primer](https://primer.style)
+  - [Shopify Polaris](https://polaris.shopify.com)
+  - [Adobe Spectrum](https://spectrum.adobe.com)
+  - honorable mention: [Bootstrap](https://getbootstrap.com/)
 ---
 **Bonus**: The 100 bytes of CSS designers don't want you to know about™ ([src](https://www.swyx.io/css-100-bytes/))
 ```css
