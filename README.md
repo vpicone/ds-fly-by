@@ -5,7 +5,7 @@
   - prefers-reduced-motion
   - prefers-contrast
 ---
-**Bonus**: The 100 bytes of CSS designers don't want you to know about™️ ([swyx.io](https://www.swyx.io/css-100-bytes/))
+**Bonus**: The 100 bytes of CSS designers don't want you to know about™ ([swyx.io](https://www.swyx.io/css-100-bytes/))
 ```css
     html {
         max-width: 70ch;
