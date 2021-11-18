@@ -7,11 +7,11 @@
 ---
 **Bonus**: The 100 bytes of CSS designers don't want you to know about™ ([swyx.io](https://www.swyx.io/css-100-bytes/))
 ```css
-    html {
-        max-width: 70ch;
-        padding: 3em 1em;
-        margin: auto;
-        line-height: 1.75;
-        font-size: 1.25em;
-    }
+html {
+    max-width: 70ch;
+    padding: 3em 1em;
+    margin: auto;
+    line-height: 1.75;
+    font-size: 1.25em;
+}
 ```
