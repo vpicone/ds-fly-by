@@ -9,6 +9,8 @@
 ### Design System petting zoo
   - [Carbon Design](https://carbondesignsystem.com)
   - [Material Design](https://material.io)
+    - [Materialize (CSS)](https://materializecss.com)
+    - [Material-ui (React)](https://mui.com)
   - [GitHub Primer](https://primer.style)
   - [Shopify Polaris](https://polaris.shopify.com)
   - [Adobe Spectrum](https://spectrum.adobe.com)
